@@ -30,7 +30,7 @@
 
 #weeks {
   display: flex;
-  width: 900px;
+  width: 85%;
   flex-direction: column;
   margin:0 auto;
 }
