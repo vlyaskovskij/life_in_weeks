@@ -30,21 +30,37 @@
 
 #weeks {
   display: flex;
-  width: 900px;
+  width: 75%;
   flex-direction: column;
   margin:0 auto;
 }
 
 .week {
-  width: 10px;
-  height: 10px;
+  width: 12px;
+  height: 12px;
   border: 1px solid;
   border-color: black;
   border-radius: 5px;
-  margin-right: 3px;
-  margin-bottom: 3px;
+  margin-right: 0px;
+  margin-bottom: 5px;
 }
 
 .week:hover{
   background-color: #000000;
+}
+
+@media (max-width: 1080px) {
+ #weeks {
+  display: flex;
+  width: 95%;
+ }
+ .week {
+  width: 4px;
+  height: 4px;
+  border: 1px solid;
+  border-color: black;
+  border-radius: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
 }
