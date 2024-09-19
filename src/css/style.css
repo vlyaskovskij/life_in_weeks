@@ -4,7 +4,7 @@
 
   margin-bottom: 20px;
 
-  font-size: 40px;
+  font-size: 30px;
 
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
@@ -42,7 +42,7 @@
   border-color: black;
   border-radius: 5px;
   margin-right: 0px;
-  margin-bottom: 5px;
+  margin-bottom: 4px;
 }
 
 .week:hover{
@@ -55,8 +55,8 @@
   width: 95%;
  }
  .week {
-  width: 4px;
-  height: 4px;
+  width: 3px;
+  height: 3px;
   border: 1px solid;
   border-color: black;
 
