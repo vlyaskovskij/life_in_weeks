@@ -52,15 +52,15 @@
 @media (max-width: 1080px) {
  #weeks {
   display: flex;
-  width: 95%;
+  width: 97%;
  }
  .week {
-  width: 3.5px;
-  height: 3.5px;
+  width: 5px;
+  height: 5px;
   border: 0.5px solid;
   border-color: black;
 
-  border-radius: 0.7px;
+  border-radius: 1px;
   margin-right: 0.5px;
   margin-bottom: 0.7px;
 }
