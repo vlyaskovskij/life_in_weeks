@@ -55,13 +55,13 @@
   width: 95%;
  }
  .week {
-  width: 3px;
-  height: 3px;
+  width: 3.5px;
+  height: 3.5px;
   border: 0.5px solid;
   border-color: black;
 
   border-radius: 0.7px;
-  margin-right: 0.7px;
+  margin-right: 0.5px;
   margin-bottom: 0.7px;
 }
 }
